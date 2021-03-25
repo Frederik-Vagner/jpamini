@@ -7,7 +7,7 @@ import java.sql.*;
 
 @SpringBootApplication
 public class JpaminiApplication {
-    private static final String DB_URL = "jdbc:mysql://3.236.12.26:3306";
+    private static final String DB_URL = "jdbc:mysql://3.237.14.142:3306";
     private static final String USER = "root";
     private static final String PASS = "mypassword";
     private static Connection conn = null;
